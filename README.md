@@ -15,4 +15,4 @@
 
 ## Изображение проекта
 
-![Роботизированная рука](robot.png)
+<img width="700" alt="Роботизированная рука" src="https://github.com/user-attachments/assets/0afc5ee8-779d-4b78-92c1-6c3ffedbe760" />
